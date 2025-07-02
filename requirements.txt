@@ -12,13 +12,13 @@ torchvision>=0.20.0
 torch-geometric>=2.6.0
 dgl>=2.2.1
 
-# 图与地理数据（若 ArcData 用到 geopandas）
+# 图与地理数据
 networkx>=3.3
 geopandas>=1.0.0
 shapely>=2.0.0
 pyproj>=3.7.0
 
-# Jupyter 交互环境（如果你使用 .ipynb）
+# Jupyter 交互环境
 jupyter
 notebook
 
